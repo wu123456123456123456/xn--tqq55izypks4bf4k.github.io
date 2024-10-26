@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://xn--tqq55izypks4bf4k.github.io</id>
+    <title>抽象艺术派-抽象集体台</title>
+    <updated>2024-10-26T14:11:07.643Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://xn--tqq55izypks4bf4k.github.io"/>
+    <link rel="self" href="http://xn--tqq55izypks4bf4k.github.io/atom.xml"/>
+    <subtitle>抽象艺术派-抽象集体台</subtitle>
+    <logo>http://xn--tqq55izypks4bf4k.github.io/images/avatar.png</logo>
+    <icon>http://xn--tqq55izypks4bf4k.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 抽象艺术派-抽象集体台</rights>
+    <entry>
+        <title type="html"><![CDATA[抽象集体台]]></title>
+        <id>http://xn--tqq55izypks4bf4k.github.io/post/chou-xiang-ji-ti-tai/</id>
+        <link href="http://xn--tqq55izypks4bf4k.github.io/post/chou-xiang-ji-ti-tai/">
+        </link>
+        <updated>2024-10-26T06:02:29.000Z</updated>
+    </entry>
+</feed>
