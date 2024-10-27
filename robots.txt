@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xn--tqq55izypks4bf4k.cyh.asia/sitemap.xml

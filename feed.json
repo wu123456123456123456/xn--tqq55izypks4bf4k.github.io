@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "抽象艺术派-抽象集体台",
+    "description": "",
+    "home_page_url": "https://xn--tqq55izypks4bf4k.cyh.asia",
+    "feed_url": "https://xn--tqq55izypks4bf4k.cyh.asia/feed.json",
+    "user_comment": "",
+    "icon": "https://xn--tqq55izypks4bf4k.cyh.asia/media/website/head-3.jpg",
+    "author": {
+        "name": "抽象艺术-抽象集体台"
+    },
+    "items": [
+        {
+            "id": "https://xn--tqq55izypks4bf4k.cyh.asia/chou-xiang-ji-ti-tai.html",
+            "url": "https://xn--tqq55izypks4bf4k.cyh.asia/chou-xiang-ji-ti-tai.html",
+            "title": "抽象集体台",
+            "summary": "2024 &nbsp; 人们一开始，只是认为这是一次普通的谈话 &nbsp; 直到........他们.........的成立.......... &nbsp; 2024年，抽象集体台基本成立",
+            "content_html": "\n  <p>\n    2024\n  </p>\n\n  <p>\n    &nbsp;\n  </p>\n\n  <p>\n    人们一开始，只是认为这是一次普通的谈话\n  </p>\n\n  <p>\n    &nbsp;\n  </p>\n\n  <p>\n    直到........他们.........的成立..........\n  </p>\n\n  <p>\n    &nbsp;\n  </p>\n\n  <p>\n    2024年，抽象集体台基本成立\n  </p>",
+            "author": {
+                "name": "抽象艺术-抽象集体台"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-27T11:40:39+08:00",
+            "date_modified": "2024-10-27T11:40:39+08:00"
+        }
+    ]
+}
